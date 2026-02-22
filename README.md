@@ -1,2 +1,2 @@
 # RedCipherLabs
-"Security through clarity"
+
